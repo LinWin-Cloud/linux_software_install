@@ -1,0 +1,2 @@
+# linux_software_install
+Linux常用软件一键安装脚本
